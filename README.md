@@ -2,7 +2,7 @@
 🔭 I’m currently working on Data Mining, Data Engineering, Data Analysis, ML Algorithms and DL Algorithms<br>💬 Ask me about anything related to Data Science
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discordapp.com/users/1119920456691097625) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/abdullah_awann) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/abdullahawann) 
 
 # 💻 Tech Stack:
